@@ -1,0 +1,26 @@
+.header{
+    text-align: center;
+}
+.header img{ 
+    height: 80px;
+}
+.header nav{
+    background-color: black; 
+    text-align:left; 
+}
+.header nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;
+    padding:15px 0;
+    transition: .3s;
+}
+.header nav a:hover{
+    background: gray;
+}
+.search-section{
+    background-color: #222;
+}
