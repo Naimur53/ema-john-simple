@@ -12,9 +12,6 @@ const Header = () => {
                     <a href="/inventory">Manage Inventory</a>
                 </div>
             </nav>
-            <section className='search-section py-3'>
-                <input placeholder='type here to search ' className='w-75 ' type="text" />
-            </section>
         </div>
     );
 };
